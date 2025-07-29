@@ -1,0 +1,9 @@
+{
+  "smtp_server": "mail.smtp2go.com",
+  "smtp_port": 587,
+  "smtp_username": "username",
+  "smtp_password": "password",
+  "email_sender": "sender@example.com",
+  "email_recipient": "recipient@example.com",
+  "email_subject": "OS Age Report"
+}

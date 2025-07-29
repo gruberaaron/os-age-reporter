@@ -1,0 +1,14 @@
+# Changelog
+
+All notable changes to the OS Age Reporter project will be documented in this file.
+
+## 2025-07-29
+
+### Added
+- Added documentation header to the script with usage information, author, date, and changelog
+- Created initial CHANGELOG file to track project changes
+
+### Changed
+- Updated config.json format (email_recipient is now a string instead of an array)
+- Moved config.json to project root directory for easier access (previously expected at ~/.config/os-age-report/config.json)
+- Sanitized config.json
